@@ -5,4 +5,4 @@ Project written in the PlatformIO environment.
 Simply clone the project and import to PIO. 
 No libraries need to be installed.
 
-unzip Proj_files.zip to obtain .pio and .vscode folders and place them in the working directory.
+unzip Proj_files.zip to obtain .pio folders and place them in the working directory.
